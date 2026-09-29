@@ -32,6 +32,8 @@
 
 **Demo video:** https://youtu.be/53BW8a2PJJc?si=DDAQdWvvN3XGvjqM
 
+**Showcase of BitShot usage with scraped GitHub images:** https://youtu.be/l2EqIn6CD8s?si=izJvSTBzVzGyz1qd
+
 ## **Contacts & Links**
 
 **Website** - https://bitshot.org
